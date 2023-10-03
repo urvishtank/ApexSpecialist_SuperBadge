@@ -1,7 +1,7 @@
-######APEX SPECIALIST SUPERBADGE TRAILHEAD MODULE::
+###### APEX SPECIALIST SUPERBADGE TRAILHEAD MODULE:
 https://trailhead.salesforce.com/content/learn/superbadges/superbadge_apex
 
-####### SANDBOX USED :
+###### SANDBOX USED :
 https://wise-raccoon-5jwwjk-dev-ed.trailblaze.lightning.force.com/lightning/setup/SetupOneHome/home
 
 **What You'll Be Doing to Earn This Superbadge**
